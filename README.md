@@ -12,7 +12,7 @@ sh ./fixperms.sh -a USER-NAME
 ```
 USER-NAME = cPanel User Name
 
-###For all cPanel useres Issue Fix:
+###For all cPanel users Issue Fix:
 
 ```sh
 wget https://raw.githubusercontent.com/shivsingh7150/cPanel-File-Permission-Issues-Fix-Script-/master/fixperms.sh
