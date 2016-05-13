@@ -18,4 +18,4 @@ For all cPanel useres Issue Fix:
 wget https://raw.githubusercontent.com/shivsingh7150/cPanel-File-Permission-Issues-Fix-Script-/master/fixperms.sh
 sh ./fixperms.sh -all
 ```
-In case of any issue or suggestion, please can contact me on shivsing7150@hotmail.com
+In case of any issue or suggestion, please contact me on shivsing7150@hotmail.com
